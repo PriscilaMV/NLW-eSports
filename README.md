@@ -6,7 +6,7 @@ Projeto desenvolvido durante o evento "Next Level Week" da Rocketseat.
 
 [🔗 Clique aqui para acessá-lo](https://priscilamv.github.io/nlw-esports-explorer)
 
-## 💡 Tecnologias
+## 🚀 Tecnologias
 
 - HTML
 - CSS
@@ -14,7 +14,7 @@ Projeto desenvolvido durante o evento "Next Level Week" da Rocketseat.
 
 
 
-## 📰Layout
+## 🔖Layout
 
 Clique [aqui](https://www.figma.com/file/Mq5CvBuJ0pZAB1GodUiuxk/NLW-eSports-(Community)?node-id=79%3A2502)
 para visualizar o layout do projeto.
